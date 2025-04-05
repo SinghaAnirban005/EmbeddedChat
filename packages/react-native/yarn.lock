@@ -1956,20 +1956,20 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@embeddedchat/api@npm:0.1.3":
-  version: 0.1.3
-  resolution: "@embeddedchat/api@npm:0.1.3"
+"@embeddedchat/api@npm:0.0.2":
+  version: 0.0.2
+  resolution: "@embeddedchat/api@npm:0.0.2"
   dependencies:
-    "@embeddedchat/auth": ^0.1.3
+    "@embeddedchat/auth": 0.0.1
     "@rocket.chat/sdk": ^1.0.0-alpha.42
-  checksum: 510f14c7898d0c0a61682e287ee764acc7e76e488336c9da0b6ade85f33afae76df83cccfe6f8e1ef4c448ce4eb48127c202c3552784a8c941fc501e6f5f4522
+  checksum: ecd41ac45acec59954a1b425fe753c9a3d40066743b99fa46777ebe771e18a4f143952671bd6767c46aa3dfe2b3e1cf8f061a45b816a086bae4f17b01c005ff4
   languageName: node
   linkType: hard
 
-"@embeddedchat/auth@npm:^0.1.3":
-  version: 0.1.3
-  resolution: "@embeddedchat/auth@npm:0.1.3"
-  checksum: a9bbf4505dd85e6ac0a3dcd932b05b26af3a0714db99adfbbf5384c3a93cc7c25f40dd8577315df538c1050f61fd7590174093357321f0700e342b4e1b6ac683
+"@embeddedchat/auth@npm:0.0.1":
+  version: 0.0.1
+  resolution: "@embeddedchat/auth@npm:0.0.1"
+  checksum: 8651eba83d0edafd67faed7264fb3f1f778425bd95afbfa5fe4a3d2357bba7f31de3dfb312a01f80ce9fd6264e976814ba4dbecb156f72bffe82302d22c35a42
   languageName: node
   linkType: hard
 
@@ -1979,7 +1979,7 @@ __metadata:
   dependencies:
     "@babel/core": ^7.19.3
     "@babel/eslint-parser": ^7.22.15
-    "@embeddedchat/api": 0.1.3
+    "@embeddedchat/api": 0.0.2
     "@emotion/native": ^11.11.0
     "@emotion/react": 11.7.1
     "@expo/vector-icons": ^13.0.0
